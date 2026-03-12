@@ -37,6 +37,7 @@ while True: # main game loop that has a condition
 # execution will ever exit the loop is if a break statement is 
 # executed (which moves execution to the first line after the loop) 
 # or sys.exit() (which terminates the program).
+    pygame.sprite.rect(width, height)
     for event in pygame.event.get(): # for loop that will 
 # iterate over the list of Event objects that was returned by
 # pygame.event.get(). On each iteration through the for loop,
