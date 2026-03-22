@@ -10,7 +10,7 @@ import pygame, sys #import statement that imports the pygame
                    # as pygame.images and pygame.mixer.music. 
                    # There’s no need to import these modules-
                    # inside-modules with additional import statements.
-
+#hello
 from pygame.locals import * # pygame.locals contains several 
                             # constant variables that are easy
                             # to identify as being in the 
